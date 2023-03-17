@@ -1,35 +1,35 @@
-div.botoes{
-    position:fixed;
-    right:5%;
-    border: 2px solid gray;
-    border-left: 70px;
-
-}
-
 .foto1{
     position:relative;
-    left: 37%;
+    left: 31.1%;
     border: 2px solid gray;
     border-radius: 4px;
     padding: 14px;
     width: 250px;
-    margin-top: 30px;
+    margin: 60px;
     display: block;
     margin-left: auto;
     margin-right: 80%;
-    padding-right: 10px; 
+    padding-right: 10px;
+    background-color: gray; 
+}
+
+h1{
+    position: absolute;
+    left: 30%;
+    font-style: italic;
+    background-position: 70%;
+    font-size: 30pt;
+}
+a{
+    right: 5%;
+}
+.config{
+  margin-left: 1200px;
+}
+.batata{
+    position: fixed;
 }
 body{
-    background-color: rgba(0, 0, 0, 0.658);
-}
-header{
-    display: flex;
-    align-items: center;
-    margin-top: 5px;
-    justify-content: space-between;
-    font-weight: bold;
-}
-a:hover:not(.active){
-    background-color: gray;
-    
+    background-color: black;
+    color: whitesmoke;
 }
