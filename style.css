@@ -1,0 +1,35 @@
+div.botoes{
+    position:fixed;
+    right:5%;
+    border: 2px solid gray;
+    border-left: 70px;
+
+}
+
+.foto1{
+    position:relative;
+    left: 37%;
+    border: 2px solid gray;
+    border-radius: 4px;
+    padding: 14px;
+    width: 250px;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: 80%;
+    padding-right: 10px; 
+}
+body{
+    background-color: rgba(0, 0, 0, 0.658);
+}
+header{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    justify-content: space-between;
+    font-weight: bold;
+}
+a:hover:not(.active){
+    background-color: gray;
+    
+}
