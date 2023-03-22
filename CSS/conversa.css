@@ -1,0 +1,26 @@
+.mensagem1{
+    position: relative;
+    border: 2px solid rgba(53, 199, 53, 0.671);
+    background-color: rgba(53, 199, 53, 0.671);
+    width: 500px;
+    text-align: center;
+    border-radius: 6px;
+
+}
+.mensagem2{
+    position: relative;
+    border: 2px solid rgba(46, 235, 235, 0.671);
+    background-color: rgba(46, 235, 235, 0.671);
+    width: 500px;
+    left: 520px;
+    text-align: center;
+    border-radius: 6px;
+}
+body{
+    background-image: url(../fotos/Fundo-WhatsApp.jpg);
+    size: 1000%;
+}
+h2{
+    text-align: center;
+    background-color: gray;
+}

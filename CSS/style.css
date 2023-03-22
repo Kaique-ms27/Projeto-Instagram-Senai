@@ -1,15 +1,15 @@
 .foto1{
     position:relative;
-    left: 31.1%;
+    left: 29.5%;
     border: 2px solid gray;
     border-radius: 4px;
-    padding: 14px;
+    padding: 17px;
     width: 250px;
     margin: 60px;
     display: block;
     margin-left: auto;
     margin-right: 80%;
-    padding-right: 10px;
+    padding-right: 65px;
     background-color: gray; 
 }
 
@@ -30,6 +30,8 @@ a{
     position: fixed;
 }
 body{
-    background-color: black;
+   
+    background-color:rgb(0, 0, 0);
     color: whitesmoke;
 }
+

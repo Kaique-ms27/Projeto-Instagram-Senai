@@ -1,0 +1,27 @@
+iframe{
+    position: fixed;
+left: 500px;
+background-color: #ffffff;
+}
+/* Solução provisória para limitar o hover */
+ul{
+    list-style-type: none;
+}
+li a {
+    display: block;
+    color: rgb(129, 129, 129);
+    text-align: left;
+    padding: 10px 2px;
+    text-decoration: none;
+    left: 1px;
+    right: 1px;
+    
+}
+
+li a:hover:not(.active){
+    background-color: #c2c2c2;
+    display: block;
+}
+body{
+    background-color: royalblue;
+}
