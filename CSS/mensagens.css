@@ -1,6 +1,6 @@
 iframe{
     position: fixed;
-left: 500px;
+left: 925px;
 background-color: #ffffff;
 }
 /* Solução provisória para limitar o hover */
@@ -9,7 +9,7 @@ ul{
 }
 li a {
     display: block;
-    color: rgb(129, 129, 129);
+    color: rgb(255, 255, 255);
     text-align: left;
     padding: 10px 2px;
     text-decoration: none;
@@ -24,4 +24,7 @@ li a:hover:not(.active){
 }
 body{
     background-color: royalblue;
+}
+.footer{
+    margin-top: 18%;
 }

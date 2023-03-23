@@ -2,7 +2,7 @@
     position: relative;
     border: 2px solid rgba(53, 199, 53, 0.671);
     background-color: rgba(53, 199, 53, 0.671);
-    width: 500px;
+    width: 300px;
     text-align: center;
     border-radius: 6px;
 
@@ -11,16 +11,32 @@
     position: relative;
     border: 2px solid rgba(46, 235, 235, 0.671);
     background-color: rgba(46, 235, 235, 0.671);
-    width: 500px;
-    left: 520px;
+    width: 270px;
+    left: 300px;
     text-align: center;
     border-radius: 6px;
 }
 body{
     background-image: url(../fotos/Fundo-WhatsApp.jpg);
-    size: 1000%;
+    background-size: 100%;
+    background-repeat: repeat-y;
 }
 h2{
     text-align: center;
     background-color: gray;
+}
+.textarea {
+    margin-top: 70%;
+}
+.text1{
+    margin-top: 76%;
+}
+.text2{
+    margin-top: 68% ;
+}
+.text3{
+    margin-top: 50%;
+}
+footer{
+    margin-top: 90%;
 }
